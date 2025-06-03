@@ -1,0 +1,3 @@
+interface Shape {
+    computeArea: () => number
+}

@@ -1,0 +1,18 @@
+{
+  "name": "lab02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "compile": "tsc",
+    "lint": "ts-standard",
+    "start": "node dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-standard": "^10.0.0",
+    "typescript": "^4.4.2"
+  }
+}
